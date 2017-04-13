@@ -1,0 +1,68 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+AngularSpringBoot/dist
+AngularSpringBoot/tmp
+AngularSpringBoot/out-tsc
+
+# dependencies
+AngularSpringBoot/node_modules
+
+# IDEs and editors
+AngularSpringBoot/.idea
+AngularSpringBoot/.project
+AngularSpringBoot/.classpath
+AngularSpringBoot/.c9/
+AngularSpringBoot/*.launch
+AngularSpringBoot/.settings/
+AngularSpringBoot/*.sublime-workspace
+
+# IDE - VSCode
+AngularSpringBoot/.vscode/*
+AngularSpringBoot/!.vscode/settings.json
+AngularSpringBoot/!.vscode/tasks.json
+AngularSpringBoot/!.vscode/launch.json
+AngularSpringBoot/!.vscode/extensions.json
+
+# misc
+AngularSpringBoot/.sass-cache
+AngularSpringBoot/connect.lock
+AngularSpringBoot/coverage
+AngularSpringBoot/libpeerconnection.log
+AngularSpringBoot/npm-debug.log
+AngularSpringBoot/testem.log
+AngularSpringBoot/typings
+
+# e2e
+AngularSpringBoot/e2e/*.js
+AngularSpringBoot/e2e/*.map
+
+# System Files
+AngularSpringBoot/.DS_Store
+AngularSpringBoot/Thumbs.db
+
+
+target/
+SpringBootAngualr/!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+SpringBootAngualr/.apt_generated
+SpringBootAngualr/.classpath
+SpringBootAngualr/.factorypath
+SpringBootAngualr/.project
+SpringBootAngualr/.settings
+SpringBootAngualr/.springBeans
+
+### IntelliJ IDEA ###
+SpringBootAngualr/.idea
+SpringBootAngualr/*.iws
+SpringBootAngualr/*.iml
+SpringBootAngualr/*.ipr
+
+### NetBeans ###
+SpringBootAngualr/nbproject/private/
+SpringBootAngualr/build/
+SpringBootAngualr/nbbuild/
+SpringBootAngualr/dist/
+SpringBootAngualr/nbdist/
+SpringBootAngualr/.nb-gradle/
